@@ -29,7 +29,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
 <img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
 <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
 <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
