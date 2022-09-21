@@ -45,9 +45,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
 
-## :zap: Recent Activity
+<!-- ## :zap: Recent Activity -->
 <!--START_SECTION:activity-->
 <!-- 1. ❗️ Closed issue [#9](https://github.com/one-loopr/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
 2. 🗣 Commented on [#9](https://github.com/one-loop/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
