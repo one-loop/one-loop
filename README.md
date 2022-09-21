@@ -3,7 +3,7 @@
 
 ## I'm a Beginner Developer
 
-- 🌱 I’m currently learning everything (python, flutter, java C#, processing)
+- 🌱 I’m currently learning react and more backend stuff
 - 👯 I’m looking to be more involved in the community
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read
