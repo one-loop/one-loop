@@ -27,16 +27,16 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
 <img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="C#" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="Dart" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
+<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 </div>
 <div>
-   <img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
-  <img align="left" alt="Adobe XD" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
-  <img align="left" alt="Flutter" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+   <img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+  <img align="left" alt="Adobe XD" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
+  <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 </div>
 
 <!-- <details> -->
