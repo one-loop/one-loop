@@ -18,25 +18,25 @@
 
 <div>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-<img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
-<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
+<img align="left" alt="NPM" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="Dart" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 </div>
 <div>
-   <img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
-  <img align="left" alt="Adobe XD" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
-  <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+   <img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+  <img align="left" alt="Adobe XD" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
+  <img align="left" alt="Flutter" width="26px" src="https://raw.github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 </div>
 
 <!-- <details> -->
