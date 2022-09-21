@@ -41,10 +41,7 @@
 <img align="left" alt="Adobe XD" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
 </div>
 
-
----
-
-<details>
+<!-- <details> -->
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
 
 <!-- ## :zap: Recent Activity -->
@@ -55,7 +52,7 @@
 4. 💪 Opened PR [#12](https://github.com/one-loop/zoom-slack-status-updater/pull/12) in [one-loop/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 
 ## &#x1f4c8; My GitHub Stats
