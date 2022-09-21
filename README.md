@@ -39,7 +39,7 @@
 <div>
    <img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
   <img align="left" alt="Adobe XD" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
-  <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
+  <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma.svg" />
 </div>
 
 <!-- <details> -->
