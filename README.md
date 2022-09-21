@@ -36,9 +36,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 </div>
----
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+<div>
+   <img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
+</div>
 
 
 ---
