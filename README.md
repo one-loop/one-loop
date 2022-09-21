@@ -16,7 +16,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Atom" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" />
-<img align="left" alt="Unity" width="26px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" />
 <br />
 <br />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
