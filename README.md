@@ -8,9 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read
 
-
-<br />
-
 ### Technologies and Tools:
 
 <div>
@@ -54,7 +51,7 @@
 <!--END_SECTION:activity-->
 
 <!-- </details> -->
-  
+<br>
 
 ## My GitHub Stats
 
