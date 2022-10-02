@@ -1,6 +1,7 @@
-   <img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
-  <img align="left" alt="Adobe XD" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
-  <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<p align="center">
+<img alt="Adobe Photoshop" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+<img alt="Adobe XD" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
+<img alt="Flutter" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 </p>
 
 <br><br>
