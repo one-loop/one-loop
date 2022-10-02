@@ -38,9 +38,8 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
-<img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img alt="NPM" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+<img alt="Flutter" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
 </p>
 
 <p align="center">
