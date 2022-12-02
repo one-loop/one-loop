@@ -2,12 +2,12 @@
 
 
 <br>
-<h3 align="center"> ⭐ I'm a beginner developer ⭐</h3>
+<h3 align="center"> ⭐ I'm a beginner developer and designer ⭐</h3>
 <br>
 
 - 🌱 I’m currently learning react and more backend stuff
 - 👯 I'm working on some really large projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects, Learn UI Design Through Projects
 - ⚡ Fun fact: I love to read
 
 
