@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning react and more backend stuff
 - 👯 I'm working on some really large projects
-- 🥅 2023 Goals: Contribute more to Open Source projects, Learn UI Design Through Projects
+- 🥅 2024 Goals: Contribute more to Open Source projects, Learn UI Design Through Projects
 - ⚡ Fun fact: I love to read
 
 
