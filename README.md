@@ -1,4 +1,4 @@
-<h3 align="center">Hi, Humanoids 👋</h3>
+<h3 align="center">Hi, 👋</h3>
 
 
 <br>
