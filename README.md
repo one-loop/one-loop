@@ -1,10 +1,5 @@
 <h3 align="center">Hi, 👋</h3>
 
-
-<br>
-<h3 align="center"> ⭐ I'm a beginner developer and designer ⭐</h3>
-<br>
-
 - 🌱 I’m currently learning react and more backend stuff
 - 👯 I'm working on some really large projects
 - 🥅 2024 Goals: Contribute more to Open Source projects, Learn UI Design Through Projects
