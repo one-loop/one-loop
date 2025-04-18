@@ -1,11 +1,3 @@
-<h3 align="center">Hi, 👋</h3>
-
-- 🌱 I’m currently learning react and more backend stuff
-- 👯 I'm working on some really large projects
-- 🥅 2024 Goals: Contribute more to Open Source projects, Learn UI Design Through Projects
-- ⚡ Fun fact: I love to read
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/one-loop/one-loop/master/img/profile2.gif"/>
 </p>
