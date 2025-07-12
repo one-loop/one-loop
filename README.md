@@ -7,11 +7,6 @@
   <img src=https://img.shields.io/github/followers/one-loop?label=follow%20me&style=social />
   &nbsp;
 </a>
-
-<a target="_blank" href=mailto:saadsifar4@gmail.com>
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-  &nbsp;
-</a>
 </p>
 
 <p align="center">
