@@ -44,10 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=one-loop&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
+[comment]: <> (<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-loop&layout=compact&theme=catppuccin_mocha&langs_count=5" alt="Top Languages"/>
-</p>
-
+</p>)
 ---
 
 <p align="center">
