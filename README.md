@@ -34,10 +34,10 @@
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=one-loop&&show_icons=true&theme=onedark)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=one-loop&layout=compact&theme=onedark&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=one-loop&&show_icons=true&theme=cobalt)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=one-loop&layout=compact&theme=cobalt&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=one-loop&theme=onedark)
+![](https://activity-graph.herokuapp.com/graph?username=one-loop&theme=cobalt)
 
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=one-loop" alt="oneloop"/> </p>  </p>
