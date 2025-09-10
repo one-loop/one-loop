@@ -34,7 +34,7 @@
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=one-loop&&show_icons=true&theme=discord_old_blurple)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=one-loop&layout=compact&theme=discord_old_blurple&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=one-loop&&show_icons=true&theme=catppuccin_mocha)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=one-loop&layout=compact&theme=catppuccin_mocha&langs_count=7)|
 |-|-|
 
 
