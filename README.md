@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/one-loop/one-loop/master/img/profile2.gif" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/one-loop/portfolio-2025/refs/heads/master/public/images/thumbnail-2.jpg" alt="Banner"/>
 </p>
 
 
