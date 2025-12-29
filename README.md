@@ -35,9 +35,9 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
   <img src="https://github-readme-stats.vercel.app/api?username=one-loop&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats"/>
 </p>
 
-<div align="center">
-  ![snake gif](https://github.com/YOUR_USERNAME/one-loop/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+![snake gif](https://github.com/YOUR_USERNAME/one-loop/blob/output/github-snake-dark.svg)
+</p>
 
 [comment]: <> (<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-loop&layout=compact&theme=catppuccin_mocha&langs_count=5" alt="Top Languages"/></p>)
 
