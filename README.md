@@ -31,13 +31,15 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
 
 ### 📊 GitHub Stats
 
+<div align="center">
+  ![snake gif](https://raw.githubusercontent.com/one-loop/one-loop/7d7ebce531df7c1c256eafffb181c2069f4c55fc/github-snake-dark.svg)
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=one-loop&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-![snake gif](https://raw.githubusercontent.com/one-loop/one-loop/7d7ebce531df7c1c256eafffb181c2069f4c55fc/github-snake-dark.svg)
-</p>
+
 
 [comment]: <> (<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-loop&layout=compact&theme=catppuccin_mocha&langs_count=5" alt="Top Languages"/></p>)
 
