@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/one-loop/one-loop/master/img/profile2.gif" alt="Banner"/>
+</p>
+
+
 [comment]: <> (<h1 align="center">Hi 👋, I'm Saad</h1>)
 <p align="center">
   <a href="https://github.com/one-loop" target="_blank">
@@ -41,8 +47,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=one-loop&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/one-loop/one-loop/master/img/profile2.gif" alt="Banner"/>
 </p>
