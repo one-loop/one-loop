@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://github.com/one-loop/one-loop/blob/one-loop-patch-1/github%20header.jpg?raw=true" alt="Banner"/>
 </p>
----
 
 ### About
 
