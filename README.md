@@ -30,7 +30,6 @@
     <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=fff" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=flat-square&logo=ollama&logoColor=000" />
 </p>
 
 <p align="center">
