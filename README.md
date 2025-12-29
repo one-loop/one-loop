@@ -2,18 +2,12 @@
 <p align="center">
   <img src="https://github.com/one-loop/one-loop/blob/one-loop-patch-1/github%20header.jpg?raw=true" alt="Banner"/>
 </p>
-
-
-[comment]: <> (<h1 align="center">Hi 👋, I'm Saad</h1>)
-<p align="center">
-  <a href="https://github.com/one-loop" target="_blank">
-    <img src="https://img.shields.io/github/followers/one-loop?label=Follow%20Me&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
 ---
+### About
 
-## 🛠️ Tech Stack & Tools
+Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied Mathematics. I got into programming by tinkering with old devices and teaching myself Python as a kid, and I’ve been hooked on building ever since. I enjoy working on projects that blend creativity and engineering—from games to learning tools—and I’m currently building Adventrip, an AI-powered trip planning application founded at CalHacks 12.0 in SF. I care about solving meaningful problems, learning across disciplines, and leaving systems better than I found them.
+
+### 🛠️ Tech Stack & Tools
 
 <p align="left"> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -35,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=one-loop&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats"/>
@@ -47,4 +41,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=one-loop&style=flat-square" alt="Profile Views"/>
+</p>
+
+
+[comment]: <> (<h1 align="center">Hi 👋, I'm Saad</h1>)
+<p align="center">
+  <a href="https://github.com/one-loop" target="_blank">
+    <img src="https://img.shields.io/github/followers/one-loop?label=Follow%20Me&style=social" alt="GitHub Followers"/>
+  </a>
 </p>
