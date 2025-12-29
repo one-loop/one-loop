@@ -31,9 +31,13 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  ![snake gif](https://raw.githubusercontent.com/one-loop/one-loop/7d7ebce531df7c1c256eafffb181c2069f4c55fc/github-snake-dark.svg)
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/one-loop/one-loop/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/one-loop/one-loop/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/one-loop/one-loop/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=one-loop&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats"/>
