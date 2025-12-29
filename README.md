@@ -49,15 +49,10 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=one-loop&style=flat-square" alt="Profile Views"/>
-    </td>
-    <td>
-      <a href="https://github.com/one-loop">
-        <img src="https://img.shields.io/github/followers/one-loop?label=Follow%20Me&style=social" alt="GitHub Followers"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=one-loop&style=flat-square" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/one-loop" target="_blank">
+    <img src="https://img.shields.io/github/followers/one-loop?label=Follow%20Me&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
