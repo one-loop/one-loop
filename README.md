@@ -3,6 +3,7 @@
   <img src="https://github.com/one-loop/one-loop/blob/one-loop-patch-1/github%20header.jpg?raw=true" alt="Banner"/>
 </p>
 ---
+
 ### About
 
 Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied Mathematics. I got into programming by tinkering with old devices and teaching myself Python as a kid, and I’ve been hooked on building ever since. I enjoy working on projects that blend creativity and engineering—from games to learning tools—and I’m currently building Adventrip, an AI-powered trip planning application founded at CalHacks 12.0 in SF. I care about solving meaningful problems, learning across disciplines, and leaving systems better than I found them.
