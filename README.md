@@ -31,6 +31,10 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
 
 ### 📊 GitHub Stats
 
+<p align="left"> 
+  <img src="https://streak-stats.demolab.com?user=one-loop&theme=material-palenight&hide_border=true" alt="one-loop github stats" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/one-loop/one-loop/output/github-snake-dark.svg">
@@ -38,6 +42,8 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/one-loop/one-loop/output/github-snake-dark.svg">
   </picture>
 </p>
+
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=one-loop&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats"/>
