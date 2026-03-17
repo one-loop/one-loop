@@ -31,7 +31,7 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
 
 ### 📊 GitHub Stats
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://streak-stats.demolab.com?user=one-loop&theme=material-palenight&hide_border=true" alt="one-loop github stats" />
 </p>
 
