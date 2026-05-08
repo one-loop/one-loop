@@ -5,7 +5,7 @@
 
 ### About
 
-Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied Mathematics. I got into programming by tinkering with old devices and teaching myself Python as a kid, and I’ve been hooked on building ever since. I enjoy working on projects that blend creativity and engineering—from games to learning tools—and I’m currently building Adventrip, an AI-powered trip planning application founded at CalHacks 12.0 in San Francisco. I care about solving meaningful problems, learning across disciplines, and leaving systems better than I found them.
+Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied Mathematics. I'm usually based in Abu Dhabi, but sometimes in New York, Paris, or Colombo. I got into programming by tinkering with old devices and teaching myself Python as a kid, and I’ve been hooked on building ever since. My primary programming language is Python, and my long-term interests are in Deep Learning, LLMs, and Agentic Systems. I also enjoy creating and designing web interfaces and interactive digital content.
 
 ### 🛠️ Tech Stack & Tools
 
