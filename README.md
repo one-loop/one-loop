@@ -5,7 +5,7 @@
 
 ### About
 
-Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied Mathematics. I'm usually based in Abu Dhabi, but sometimes in New York, Paris, or Colombo. I got into programming by tinkering with old devices and teaching myself Python as a kid, and I’ve been hooked on building ever since. My primary programming language is Python, and my long-term interests are in Deep Learning, LLMs, and Agentic Systems. I also enjoy creating and designing web interfaces and interactive digital content.
+Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied Mathematics. I'm usually based in Abu Dhabi, but sometimes in New York, Paris, or Colombo. I got into programming by tinkering with old devices and teaching myself Python as a kid, and I’ve been hooked on building ever since. My primary programming language is Python, and my long-term interests are in Deep Learning, LLMs, and Agentic Systems. I also enjoy creating and designing web interfaces and interactive digital content like my [personal portfolio](https://www.saadsifar.com). Please check it out to learn more!
 
 ### 🛠️ Tech Stack & Tools
 
