@@ -49,7 +49,6 @@ Hey, I'm Saad. I'm a junior at NYU Abu Dhabi studying CS, Economics, and Applied
   <img src="https://github-readme-stats.vercel.app/api?username=one-loop&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats"/>
 </p>
 -->
-
 ---
 
 <p align="center">
