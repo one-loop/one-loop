@@ -4,7 +4,7 @@
 </p> -->
 
 <p align="center">
-  <a target="_blank" href="https://www.saadsifar.com/" rel="noopener noreferrer" ><img src="https://i.pinimg.com/736x/71/ca/6e/71ca6e72590a18f6f67e6ec26a02a6e1.jpg" alt="Banner"/></a>
+  <a target="_blank" href="https://www.saadsifar.com/" rel="noopener noreferrer" ><img src="https://i.pinimg.com/1200x/2e/58/a9/2e58a979533ea4dba275bea7e3338e9f.jpg" alt="Banner"/></a>
 </p>
 
 
