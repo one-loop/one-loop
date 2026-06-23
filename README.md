@@ -3,10 +3,6 @@
   <a target="_blank" href="https://www.saadsifar.com/" rel="noopener noreferrer" ><img src="https://github.com/one-loop/one-loop/blob/main/github%20header.jpg?raw=true" alt="Banner"/></a>
 </p>
 
-<!-- <p align="center">
-  <a target="_blank" href="https://www.saadsifar.com/" rel="noopener noreferrer" ><img src="https://i.pinimg.com/1200x/e8/aa/a8/e8aaa897bdae04006db0f1ed9dd5ea9a.jpg" alt="Banner"/></a>
-</p> -->
-
 
 ### About
 
